@@ -993,7 +993,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Level 1
+  m_Text: 'Level 3
 
 '
 --- !u!222 &177296127
@@ -11898,6 +11898,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1442295836}
     m_Modifications:
+    - target: {fileID: 45850363483630770, guid: a1f4d4b395b028c4f8af0fcfcf598a2b,
+        type: 3}
+      propertyPath: m_Name
+      value: B
+      objectReference: {fileID: 0}
     - target: {fileID: 45850363483630769, guid: a1f4d4b395b028c4f8af0fcfcf598a2b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11952,11 +11957,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 45850363483630770, guid: a1f4d4b395b028c4f8af0fcfcf598a2b,
-        type: 3}
-      propertyPath: m_Name
-      value: B
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a1f4d4b395b028c4f8af0fcfcf598a2b, type: 3}
@@ -22947,6 +22947,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1442295836}
     m_Modifications:
+    - target: {fileID: 8670542853388748933, guid: 3560338acf88ec249895e191d48f57c1,
+        type: 3}
+      propertyPath: m_Name
+      value: Button
+      objectReference: {fileID: 0}
+    - target: {fileID: 8670542853388748933, guid: 3560338acf88ec249895e191d48f57c1,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8670542853388748932, guid: 3560338acf88ec249895e191d48f57c1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23061,16 +23071,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.y
       value: 0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 8670542853388748933, guid: 3560338acf88ec249895e191d48f57c1,
-        type: 3}
-      propertyPath: m_Name
-      value: Button
-      objectReference: {fileID: 0}
-    - target: {fileID: 8670542853388748933, guid: 3560338acf88ec249895e191d48f57c1,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8670542853388748934, guid: 3560338acf88ec249895e191d48f57c1,
         type: 3}
@@ -23448,6 +23448,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 942666163}
     m_Modifications:
+    - target: {fileID: 1355157352579109493, guid: f22fbfb0a259dea4f86c32932bbf84aa,
+        type: 3}
+      propertyPath: m_Name
+      value: Win
+      objectReference: {fileID: 0}
     - target: {fileID: 1355157352579109450, guid: f22fbfb0a259dea4f86c32932bbf84aa,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -23552,11 +23557,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1355157352579109493, guid: f22fbfb0a259dea4f86c32932bbf84aa,
-        type: 3}
-      propertyPath: m_Name
-      value: Win
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f22fbfb0a259dea4f86c32932bbf84aa, type: 3}
@@ -24010,6 +24010,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 149662180}
     m_Modifications:
+    - target: {fileID: 6757430970163527997, guid: 5d3d08530a9876c468b07976fb0bf59a,
+        type: 3}
+      propertyPath: m_Name
+      value: Lost
+      objectReference: {fileID: 0}
     - target: {fileID: 6757430970163527938, guid: 5d3d08530a9876c468b07976fb0bf59a,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -24114,11 +24119,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 6757430970163527997, guid: 5d3d08530a9876c468b07976fb0bf59a,
-        type: 3}
-      propertyPath: m_Name
-      value: Lost
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d3d08530a9876c468b07976fb0bf59a, type: 3}
